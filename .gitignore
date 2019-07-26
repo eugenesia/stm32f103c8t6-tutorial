@@ -5,6 +5,5 @@
 *.map
 
 # Ignore manually-downloaded modules
-/libopencm3/*
 /rtos/*
 
